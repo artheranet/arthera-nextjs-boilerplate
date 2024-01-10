@@ -1,8 +1,9 @@
-# Arthera Next.js Boilerplate
+# W3HC Next.js Boilerplate
 
 A variant of [Nexth](https://github.com/wslyvh/nexth/) boilerplate for hackathons and quick prototyping.
 
-View the [live demo](https://arthera-nextjs-boilerplate.netlify.app).
+- [live demo](https://w3hc-nextjs-boilerplate.netlify.app)
+- [Solidity Contracts](https://github.com/w3hc/w3hc-hardhat-template)
 
 ## Features
 
@@ -46,10 +47,6 @@ pnpm dev
 ```bash
 pnpm build
 ```
-
-## Arthera faucet
-
-You can get a handful of Testnet AA, the native currency of Arthera at [https://faucet.arthera.net/](https://faucet.arthera.net/).
 
 ## Gitcoin passport
 
